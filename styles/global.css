@@ -1,0 +1,25 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  --bg-color: #09090B;
+  --surface-color: #18181B;
+  --stroke-color: #27272A;
+  --text-color-primary: #F4F4F5;
+  --text-color-secondary: #A1A1AA;
+  /* --brand-gradient: #FC4A1A #F7B733; */
+  --brand-color-primary: #F7B733;
+  --brand-color-secondary: #FC4A1A;
+}
