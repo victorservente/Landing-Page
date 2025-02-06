@@ -21,11 +21,11 @@ section {
   & p {
     margin-top: .5rem;
     color: var(--text-color-secondary);
-    font: var(--fw-md) var(--fs-base)/1.6 var(--ff-sans);
+    /* font: var(--fw-md) var(--fs-base)/1.6 var(--ff-sans); */
   };
 }
 
-@media (width >=80em) {
+@media (width >= 80rem) {
   #smartphone-img {
     display: none;
   }
