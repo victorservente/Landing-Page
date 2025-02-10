@@ -1,0 +1,18 @@
+#pricing {
+  & header {
+    text-align: center;
+  }
+
+  & h3{
+    font-size: 1.25rem;
+    margin-top: 0;
+  }
+
+  @media(width >= 80rem) {
+    & header {
+      max-width: 50rem;
+      margin-inline: auto;
+    }
+  }
+}
+
