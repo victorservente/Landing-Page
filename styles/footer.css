@@ -1,0 +1,24 @@
+#footer {
+  color: var(--text-color-secondary);
+  font-weight: var(--fw-md);
+
+  & .container,
+  & .top {
+    gap: 3rem;
+  }
+
+  & nav.even-columns {
+    gap: 4rem;
+  }
+
+  & .top ul{
+    align-content: start;
+  }
+
+  & .title {
+    font-size: 0.75rem;
+    letter-spacing: 0.08rem;
+    text-transform: uppercase;
+    color: var(--brand-color-primary);
+  }
+}
