@@ -14,11 +14,11 @@ This is a responsive web page of a fictitious product.
 Zingen is a responsive Landing Page for selling and promoting a Karaoke app.  
 It contains the following sections: 
 - Header
-- Navigatio
-- Her
-- Abou
-- Feature
-- Pricin
+- Navigation
+- Hero
+- About
+- Features
+- Pricing
 - Download
 - Footer
 
